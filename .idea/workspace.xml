@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb34b5ab-8974-4e1d-a2d9-9412ca69f6a1" name="Changes" comment="Lamvbda yaml commit 2">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-    </list>
+    <list default="true" id="bb34b5ab-8974-4e1d-a2d9-9412ca69f6a1" name="Changes" comment="Lamvbda yaml commit 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +108,7 @@
       <workItem from="1716429784781" duration="912000" />
       <workItem from="1716595527929" duration="458000" />
       <workItem from="1716596008191" duration="1221000" />
-      <workItem from="1716599584787" duration="1417000" />
+      <workItem from="1716599584787" duration="1761000" />
     </task>
     <task id="LOCAL-00001" summary="Mi primer commit">
       <option name="closed" value="true" />
@@ -177,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716600929211</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lamvbda yaml commit 3">
+      <option name="closed" value="true" />
+      <created>1716601188609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716601188609</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +204,8 @@
     <MESSAGE value="Mi segundo commit" />
     <MESSAGE value="Lamvbda aws commit" />
     <MESSAGE value="Lamvbda yaml commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lamvbda yaml commit 2" />
+    <MESSAGE value="Lamvbda yaml commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lamvbda yaml commit 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/examenU1$.coverage" NAME=" Coverage Results" MODIFIED="1715316251188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/unit" />
