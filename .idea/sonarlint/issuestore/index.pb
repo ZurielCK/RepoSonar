@@ -309,3 +309,5 @@ w
 G.idea/sonarlint/issuestore/e/3/e36d3b35b0aa033dfcf067b2cd16117a306b1e80,b\7\b7efe4bbd512d928a8a70589d0ce00fb0ae175df
 w
 G.idea/sonarlint/issuestore/e/b/eb7efc511e9e92a25b7c826895dfd40e19f0cbd2,8\8\88229a0a4193d63923c89807f5d6d807161278c8
+K
+.aws-sam/build/template.yml,2\f\2f19f53a1d878d1a069ea37c37e180a801ea14ce
