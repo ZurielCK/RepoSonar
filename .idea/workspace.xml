@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb34b5ab-8974-4e1d-a2d9-9412ca69f6a1" name="Changes" comment="Mi primer commit" />
+    <list default="true" id="bb34b5ab-8974-4e1d-a2d9-9412ca69f6a1" name="Changes" comment="Mi primer commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ZurielCK/RepoIsaac&quot;,
+    &quot;url&quot;: &quot;https://github.com/ZurielCK/RepoSonar.git&quot;,
     &quot;accountId&quot;: &quot;a6e1faa2-6702-48c6-9f37-8d96d8f9dbe9&quot;
   }
 }</component>
@@ -45,6 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -100,6 +103,9 @@
       <workItem from="1715315863029" duration="1317000" />
       <workItem from="1716428164178" duration="189000" />
       <workItem from="1716428598163" duration="1170000" />
+      <workItem from="1716429784781" duration="912000" />
+      <workItem from="1716595527929" duration="458000" />
+      <workItem from="1716596008191" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="Mi primer commit">
       <option name="closed" value="true" />
